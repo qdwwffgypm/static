@@ -1,2 +1,2 @@
 import sendSmsUtil from "./js/utils/sendSmsUtil";
-export {sendSmsUtil};
+export default sendSmsUtil;

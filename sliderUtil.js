@@ -1,2 +1,2 @@
 import sliderUtil from "./js/utils/sliderUtil";
-export {sliderUtil};
+export default sliderUtil;

@@ -1,2 +1,2 @@
 import validate from "./js/libs/validate";
-export {validate};
+export default validate;

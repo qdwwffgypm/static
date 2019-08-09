@@ -1,2 +1,2 @@
 import lazyloadUtil from "./js/utils/lazyloadUtil";
-export {lazyloadUtil};
+export default lazyloadUtil;

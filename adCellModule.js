@@ -1,2 +1,2 @@
 import adCellModule from "./js/uis/adCellModule";
-export {adCellModule};
+export default adCellModule;

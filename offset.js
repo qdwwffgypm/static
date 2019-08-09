@@ -1,2 +1,2 @@
 import offset from "./js/libs/offset";
-export {offset};
+export default offset;

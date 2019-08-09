@@ -1,2 +1,2 @@
 import areaUtil from "./js/utils/areaUtil";
-export {areaUtil};
+export default areaUtil;

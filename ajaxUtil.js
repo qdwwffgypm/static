@@ -1,2 +1,2 @@
 import ajaxUtil from "./js/utils/ajaxUtil";
-export {ajaxUtil};
+export default ajaxUtil;

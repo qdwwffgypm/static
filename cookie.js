@@ -1,2 +1,2 @@
 import cookie from "./js/libs/cookie";
-export {cookie};
+export default cookie;

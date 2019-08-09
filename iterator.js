@@ -1,2 +1,2 @@
 import iterator from "./js/libs/iterator";
-export {iterator};
+export default iterator;

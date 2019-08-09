@@ -1,2 +1,2 @@
 import stringUtil from "./js/libs/stringUtil";
-export {stringUtil};
+export default stringUtil;

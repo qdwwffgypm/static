@@ -1,2 +1,2 @@
 import headerUtil from "./js/utils/headerUtil";
-export {headerUtil};
+export default headerUtil;

@@ -1,2 +1,2 @@
 import checkbox from "./js/libs/checkbox";
-export {checkbox};
+export default checkbox;

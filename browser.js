@@ -1,2 +1,2 @@
 import browser from "./js/libs/browser";
-export {browser};
+export default browser;

@@ -1,2 +1,2 @@
 import slider from "./js/libs/slider";
-export {slider};
+export default slider;

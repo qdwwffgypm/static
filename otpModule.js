@@ -1,2 +1,2 @@
 import otpModule from "./js/uis/otpModule";
-export {otpModule};
+export default otpModule;
